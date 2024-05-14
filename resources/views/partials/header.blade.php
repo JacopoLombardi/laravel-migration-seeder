@@ -7,7 +7,7 @@
                 <a class="nav-link" href="{{ route('homePage') }}">Home Page</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('newPage') }}">Lista dei Treni</a>
+                <a class="nav-link" href="{{ route('trains') }}">Lista dei Treni</a>
             </li>
         </ul>
 
