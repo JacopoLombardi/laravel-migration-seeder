@@ -3,6 +3,8 @@
 
     @section('content')
 
-        <h1>home</h1>
+        <div class="d-flex  justify-content-center">
+            <h1>Home Page</h1>
+        </div>
 
     @endsection
